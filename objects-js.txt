@@ -1,35 +1,35 @@
-// let students = [
-//     {
-//         name : "Meleyke",
-//         surname : "Huseynova",
-//         mark : 92,
-//         hobby : ""
-//     },
-//     {
-//         name: "Rena",
-//         surname : "Ceferli",
-//         mark : 93,
-//         hobby : "kitab oxumaq"
-//     },
-//     {
-//         name : "Nahid",
-//         surname : "Allahverdiyev",
-//         mark : 85,
-//         hobby : "qitar calmaq"
-//     },
-//     {
-//         name : "Nuray",
-//         surname : "Ismayilova",
-//         mark : 91,
-//         hobby : "kitab oxumaq"
-//     },
-//     {
-//         name : "Firuze",
-//         surname : "Mehdiyeva",
-//         mark : 86,
-//         hobby : ""
-//     }
-// ]
+let students = [
+    {
+        name : "Meleyke",
+        surname : "Huseynova",
+        mark : 92,
+        hobby : "sekıl cekdırmek"
+    },
+    {
+        name: "Rena",
+        surname : "Ceferli",
+        mark : 93,
+        hobby : "kitab oxumaq"
+    },
+    {
+        name : "Nahid",
+        surname : "Allahverdiyev",
+        mark : 85,
+        hobby : "qitar calmaq"
+    },
+    {
+        name : "Nuray",
+        surname : "Ismayilova",
+        mark : 91,
+        hobby : "kitab oxumaq"
+    },
+    {
+        name : "Firuze",
+        surname : "Mehdiyeva",
+        mark : 86,
+        hobby : "seyahet etmek"
+    }
+]
 
 //4
 // let cem=0
@@ -42,8 +42,8 @@
 
 
 //5
-// for (let i=0; i<students.length; i++){
-//     if(students[i].mark<90){
-//         console.log(`${students[i].name} ${students[i].surname} baliniz ${students[i].mark}-dir, bu da 90-dan asagidir`);
-//     }
-// }
+//for (let i=0; i<students.length; i++){
+//    if(students[i].mark<90){
+//        console.log(`${students[i].name} ${students[i].surname} baliniz ${students[i].mark}-dir, bu da 90-dan asagidir`);
+//    }
+//}
